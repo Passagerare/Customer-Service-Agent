@@ -1,0 +1,9 @@
+2026-09-09 14:01:25,560 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-09-09 14:01:25,560 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你好
+2026-09-09 14:01:37,505 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-09-09 14:01:37,506 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 你有什么选购建议可以给到我
+2026-09-09 14:01:38,851 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-09-09 14:01:38,851 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人选购建议'}
+2026-09-09 14:01:43,470 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-09-09 14:01:46,132 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-09-09 14:01:46,132 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 选购扫地机器人应根据使用场景选择：小户型可选基础激光导航机型（如米家1C、石头T4），大户型需大电池（>5200mAh）及自动集尘或自动洗拖布功能；有宠物家庭应选大吸力（≥2500Pa）、胶刷设计和大尘盒容量机型；多地毯环境需具备地毯识别与自动增压功能，吸力建议≥2500Pa。导航方面，激光导航定位精准适合复杂户型，视觉导航性价比高但应避免强光环境。家用吸力建议≥3000Pa，地毯场景建议≥4000Pa，且支持吸力调节更佳。主要参数包括导航类型、吸力大小、电池容量、尘盒/水箱容量。

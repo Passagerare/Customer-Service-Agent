@@ -1,0 +1,81 @@
+2026-03-29 21:36:08,865 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-29 21:36:08,879 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-29 21:36:08,886 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-29 21:36:08,893 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-03-29 21:36:08,902 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-03-29 21:36:08,913 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\选购指南.txt内容已经存在知识库内，跳过
+2026-03-29 21:37:03,248 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-29 21:37:03,248 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-29 21:37:03,249 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-29 21:37:03,250 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-03-29 21:37:03,251 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-03-29 21:37:03,252 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\选购指南.txt内容已经存在知识库内，跳过
+2026-03-29 21:40:24,489 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-29 21:40:24,490 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-29 21:40:24,491 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-29 21:40:24,491 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-03-29 21:40:24,491 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-03-29 21:40:24,492 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\选购指南.txt内容已经存在知识库内，跳过
+2026-03-29 21:40:50,100 - agent - INFO - vector_store.py:96 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问.pdf 内容加载成功
+2026-03-29 21:40:53,380 - agent - INFO - vector_store.py:96 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问2.txt 内容加载成功
+2026-03-29 21:41:00,388 - agent - INFO - vector_store.py:96 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫拖一体机器人100问.txt 内容加载成功
+2026-03-29 21:41:08,837 - agent - INFO - vector_store.py:96 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\故障排除.txt 内容加载成功
+2026-03-29 21:41:13,315 - agent - INFO - vector_store.py:96 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\维护保养.txt 内容加载成功
+2026-03-29 21:41:17,266 - agent - INFO - vector_store.py:96 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\选购指南.txt 内容加载成功
+2026-03-29 21:41:34,269 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-03-29 21:41:34,273 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-03-29 21:41:34,274 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-03-29 21:41:34,275 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-03-29 21:41:34,275 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-03-29 21:41:34,275 - agent - INFO - vector_store.py:74 - [加载知识库]D:\桌面\agent\代码\AI大模型RAG与智能体开发_Agent项目\data\选购指南.txt内容已经存在知识库内，跳过
+2026-03-29 22:56:32,999 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-29 22:56:33,000 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 生成我的使用报告
+2026-03-29 22:56:38,744 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_id
+2026-03-29 22:56:38,745 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-03-29 22:56:38,745 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_id调用成功
+2026-03-29 22:56:38,802 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-29 22:56:38,802 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 1007
+2026-03-29 22:56:41,816 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_current_month
+2026-03-29 22:56:41,817 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-03-29 22:56:41,818 - agent - INFO - middleware.py:24 - [tool monitor]工具get_current_month调用成功
+2026-03-29 22:56:41,909 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-03-29 22:56:41,910 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 2025-04
+2026-03-29 22:56:44,605 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fill_context_for_report
+2026-03-29 22:56:44,605 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-03-29 22:56:44,606 - agent - INFO - middleware.py:24 - [tool monitor]工具fill_context_for_report调用成功
+2026-03-29 22:56:44,902 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有7条消息。
+2026-03-29 22:56:44,902 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | fill_context_for_report已调用
+2026-03-29 22:56:48,202 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fetch_external_data
+2026-03-29 22:56:48,202 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'user_id': '1007', 'month': '2025-04'}
+2026-03-29 22:56:48,205 - agent - INFO - middleware.py:24 - [tool monitor]工具fetch_external_data调用成功
+2026-03-29 22:56:49,533 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有9条消息。
+2026-03-29 22:56:49,533 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | {"特征": "55㎡一居 | 独居 | 复合地板", "效率": "覆盖率:93%\\n日均清扫:38㎡\\n沿边清扫无死角", "耗材": "滤网寿命:剩余65天\\n尘盒清理:每5天", "对比": "清洁效率优于80%小户型用户"}
+2026-03-29 22:56:53,775 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-03-29 22:56:53,775 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人滤网和尘盒维护保养建议'}
+2026-03-29 22:57:00,408 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 22:57:02,497 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有11条消息。
+2026-03-29 22:57:02,497 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 尘盒建议普通家庭每2-3天清理一次，宠物家庭或大户型每天清理；每次清理后用干布擦拭内部，不可用水浸泡（防水尘盒除外）。滤网需与尘盒配套安装，不可缺失；可每月用清水冲洗，阴凉处晾干，避免暴晒，使用3-6个月后建议更换。若吸力下降，应检查尘盒、滤网及风道是否堵塞并及时清理。每周需用软毛刷从尘盒出风口向吸口方向清扫风道，保持通畅；集尘款机器人每日检查集尘通道，确保无毛发或杂物堵塞。
+2026-03-29 22:57:32,800 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-29 22:57:32,800 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我这里的天气怎么用
+2026-03-29 22:57:46,074 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_location
+2026-03-29 22:57:46,074 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-03-29 22:57:46,075 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_location调用成功
+2026-03-29 22:57:46,109 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-29 22:57:46,109 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 杭州
+2026-03-29 22:57:50,617 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_weather
+2026-03-29 22:57:50,617 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'city': '杭州'}
+2026-03-29 22:57:50,618 - agent - INFO - middleware.py:24 - [tool monitor]工具get_weather调用成功
+2026-03-29 22:57:51,163 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-03-29 22:57:51,163 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 城市杭州天气为晴天，气温26摄氏度，空气湿度50%，南风1级，AQI21，最近6小时降雨概率极低
+2026-03-29 22:58:36,523 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-29 22:58:36,523 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我这里的天气怎么样
+2026-03-29 22:58:40,000 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_location
+2026-03-29 22:58:40,001 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-03-29 22:58:40,002 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_location调用成功
+2026-03-29 22:58:40,038 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-29 22:58:40,040 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 合肥
+2026-03-29 22:58:43,150 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_weather
+2026-03-29 22:58:43,151 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'city': '合肥'}
+2026-03-29 22:58:43,152 - agent - INFO - middleware.py:24 - [tool monitor]工具get_weather调用成功
+2026-03-29 22:58:43,689 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-03-29 22:58:43,689 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 城市合肥天气为晴天，气温26摄氏度，空气湿度50%，南风1级，AQI21，最近6小时降雨概率极低

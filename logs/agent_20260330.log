@@ -1,0 +1,14 @@
+2026-03-30 14:59:42,893 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-30 14:59:42,894 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我所在城市今天天气怎么样
+2026-03-30 14:59:46,984 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_location
+2026-03-30 14:59:46,986 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-03-30 14:59:46,986 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_location调用成功
+2026-03-30 14:59:47,018 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-03-30 14:59:47,018 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 合肥
+2026-03-30 14:59:49,411 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_weather
+2026-03-30 14:59:49,411 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'city': '合肥'}
+2026-03-30 14:59:49,412 - agent - INFO - middleware.py:24 - [tool monitor]工具get_weather调用成功
+2026-03-30 14:59:49,946 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-03-30 14:59:49,947 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 城市合肥天气为晴天，气温26摄氏度，空气湿度50%，南风1级，AQI21，最近6小时降雨概率极低
+2026-03-30 15:00:01,442 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-03-30 15:00:01,443 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 我们历史对话记录都有什么

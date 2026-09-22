@@ -1,0 +1,7 @@
+2026-04-20 16:08:41,353 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-04-20 16:08:41,354 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 扫地机器人怎么保养
+2026-04-20 16:08:43,285 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-04-20 16:08:43,285 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人保养方法'}
+2026-04-20 16:08:48,513 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-04-20 16:08:50,660 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-04-20 16:08:50,661 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 每日使用后用干软布擦拭机身外壳，清理防撞条缝隙的毛发和线头；每次清扫后清理主刷、尘盒及拖布（宠物家庭需全面清理并每周除味消毒）；每日检查边刷旋转是否卡顿，及时停机清理；每周检查充电座电源适配器有无发热或异响，并清理地毯边缘灰尘或水泥地轮组泥沙；每月检查扫拖一体机型的拖地模组接口是否清洁、连接顺畅；若沾到宠物粪便，立即用湿巾清理后再用中性洗涤剂擦拭；日常使用后将清扫模式调至“待机”以减少电量消耗。
